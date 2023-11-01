@@ -1,0 +1,27 @@
+{
+  "name": "angular-spinners",
+  "version": "0.1.0",
+  "description": "angular-spinners.",
+  "authors": [
+    "Eric Davidson <edavidso@informatica.com>"
+  ],
+  "main": [
+    "dist/angular-spinners.min.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/edavidso-informatica/angular-spinners",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edavidso-informatica/angular-spinners"
+  },
+  "authors": [
+    { "name": "Eric Davidson", "email": "edavidso@informatica.com", "homepage": "http://www.informatica.com" }
+  ]
+}
